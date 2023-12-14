@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">ECommerce</string>
     <string name="sign">Log in</string>
+    <string name="password">password</string>
+    <string name="birthday">Birthday</string>
+    <string name="example_gamil_com">example@gamil.com</string>
+    <string name="regester">Regester</string>
 
 </resources>
